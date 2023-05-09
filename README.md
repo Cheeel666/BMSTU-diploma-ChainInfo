@@ -51,4 +51,5 @@ Requires running blockchain. Go to metamask extension for browser, create accoun
 
 
 ### Troubles
-Currently we work only with node 1.
+If it pops up on second node - "unauthorized signer", type following in *geth attach http://localhost:8001*
+clique.propose("0xDd27585FD191A406B950c8D3c223B9590ae5f7DB", true)
