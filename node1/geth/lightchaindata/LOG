@@ -1,8 +1,8 @@
 =============== May 9, 2023 (MSK) ===============
-05:30:19.453481 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
-05:30:19.468144 db@open opening
-05:30:19.468408 version@stat F·[] S·0B[] Sc·[]
-05:30:19.472710 db@janitor F·2 G·0
-05:30:19.472738 db@open done T·4.573291ms
-05:30:19.581141 db@close closing
-05:30:19.581569 db@close done T·429.416µs
+15:21:22.236817 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:21:22.254177 db@open opening
+15:21:22.254414 version@stat F·[] S·0B[] Sc·[]
+15:21:22.259237 db@janitor F·2 G·0
+15:21:22.259258 db@open done T·5.06375ms
+15:21:22.333220 db@close closing
+15:21:22.333446 db@close done T·225.666µs
